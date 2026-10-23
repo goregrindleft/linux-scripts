@@ -1,0 +1,9 @@
+*.log
+*.txt
+*.swp
+*.save
+backup/
+project_1/
+project_2/
+project_3/
+reports/
