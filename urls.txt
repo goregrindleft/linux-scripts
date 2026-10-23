@@ -1,0 +1,3 @@
+https://www.google.com
+https://invalid.url.test
+https://github.com

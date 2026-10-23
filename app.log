@@ -1,0 +1,225 @@
+[] Server is on 
+[2026-07-19 18:03:24] Server is on 
+[2026-07-19 18:04:24] Server is on 
+[2026-07-19 18:05:00] Server is on 
+[2026-07-19 18:06:55] Server is on 
+[2026-07-20 17:54:50] Backup completed : project_1_2026-07-20.tar.gz 
+[2026-07-27 17:09:50] Disk: 71%  Memory : 31%  Files in backup :  
+[2026-07-27 17:13:03] Disk: 71%  Memory : 38%  Files in backup :        4 
+[2026-07-28 18:08:15] production Disk: 71% Memory:35% Files :        4 
+[2026-07-28 18:26:15] production Disk: 71% Memory:31% Files :        4 
+[2026-07-30 16:20:18] production Disk : 71%  Memory : 32%  Files :        4 
+[2026-08-04 13:15:45] /Users/rovshangarayev/linux_practice/backup Files deleted :   2026-08-04 
+[2026-08-04 13:17:13] /Users/rovshangarayev/linux_practice/backup Files deleted :        0  2026-08-04 
+[2026-08-06 16:21:56]  /Users/rovshangarayev/linux_practice/backup Files deleted :        0 
+[2026-08-07 17:16:14]  Disk : 71%  Memory : 37%  Files :        4 
+[2026-08-11 17:33:23] Backup completed : project_1_2026-08-11.tar.gz 
+2026-08-12 Test message  
+2026-08-12 Test message 
+[2026-08-12] Hello fellas 
+[2026-08-17 17:55:18]        2 deleted from /Users/rovshangarayev/linux_practice/backup
+[2026-08-18 17:54:35] Connection=COnnected  TCP=      24 Local IP=
+[2026-08-18 17:55:26] Connection=COnnected  TCP=      22 Local IP=127.0.0.1
+::1
+fe80::1%lo0
+fe80::4c0:d771:ad08:68d8%en0
+10.0.0.250
+fe80::9b7d:7af6:3dab:da%utun0
+fe80::bcb8:92ff:fe99:b100%awdl0
+fe80::bcb8:92ff:fe99:b100%llw0
+fe80::7e87:a774:5407:2c59%utun1
+fe80::d0bc:591c:e46c:8b67%utun2
+fe80::ce81:b1c:bd2c:69e%utun3
+fe80::a789:1469:9a33:555b%utun4
+fe80::ae02:7cd8:3583:93cf%utun5
+[2026-08-18 18:01:22] Connection=COnnected  TCP=      23 Local IP=::1
+[2026-08-18 18:03:27] Connection=COnnected  TCP=      28 Local IP=10.0.0.250
+[2026-08-19 13:49:47] Disk=100%  Memory=33% Files=       3 
+[2026-08-19 13:52:28] Disk=65%  Memory=30% Files=       3 
+[2026-08-19 14:16:59] Net=Connected Disk=65% Memory=35% Processes=root             51855  33.2  0.4 426946560  33136   ??  Ss    1:49PM   0:00.50 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      381   8.3  0.6 412942112  51392   ??  Ss    1Jun26 3710:39.13 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root               350   8.1  0.1 426957488   8112   ??  Ss    1Jun26  61:58.20 /usr/libexec/opendirectoryd 
+[2026-08-19 14:19:27] Net=Connected Disk=65% Memory=34%  
+[2026-08-19 14:53:11] Net=Disconnected Disk=63% Memory=31%  
+[2026-08-20 16:48:45] Connection=COnnected  TCP=      26 Local IP=172.20.10.12
+[2026-08-23 18:26:17] Backup completed : project_1_2026-08-23.tar.gz 
+[2026-08-24 18:02:39]  Files deleted :        0  2026-08-24 
+[2026-08-24 18:09:35] /Users/rovshangarayev/linux_practice/backup Files deleted :        2  2026-08-24 
+[2026-08-25 18:23:36] Disk=66% Memory=34% Files=       2 
+[2026-08-29 12:53:50] Connection:Connected TCP=      10 Local IP=10.0.0.242
+[2026-08-29 12:55:04] Connection:Connected TCP=      13 Local IP=10.0.0.242
+[2026-08-30 17:56:05] /Users/rovshangarayev/linux_practice/backup Files deleted :        0  2026-08-30 
+[2026-08-31 18:16:13] Disk=WARNING: Disk is full Memory=Memory is ok : 31%  Ping=PING google.com (142.251.209.14): 56 data bytes
+64 bytes from 142.251.209.14: icmp_seq=0 ttl=117 time=14.187 ms
+64 bytes from 142.251.209.14: icmp_seq=1 ttl=117 time=9.215 ms
+64 bytes from 142.251.209.14: icmp_seq=2 ttl=117 time=11.202 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 9.215/11.535/14.187/2.043 ms
+HOST is UP  
+[2026-08-31 18:19:38] Disk=WARNING: Disk is full Memory=Memory is ok : 34%  Ping=HOST is UP  
+[2026-09-01 16:10:30] Disk:70 Memory:34 
+[2026-09-03 16:17:35] google.com is UP
+[2026-09-03 16:17:35] github.com is UP
+[2026-09-03 16:17:35] nohost.fake is DOWN
+[2026-09-03 17:09:42] Backup completed:project_1_2026-09-03.tar.gz
+[2026-09-04 14:23:28] Host is UP
+[2026-09-04 14:23:30] Host is UP
+[2026-09-04 14:23:30] Host is Down
+[2026-09-04 14:25:40] Host is UP
+[2026-09-04 14:25:42] Host is UP
+[2026-09-04 14:25:42] Host is Down
+[2026-09-04 14:28:01] google.com is UP
+[2026-09-04 14:28:04] github.com is UP
+[2026-09-04 14:28:04] nohost.fake is Down
+[2026-09-06 13:12:56] Disk=DISK:56% Memory=MEMORY:58%  Ping=HOST is UP 
+[2026-09-07 15:36:28] Backup completed : project_1_2026-09-07.tar.gz 
+[2026-09-07 15:48:27] Files deleted :        0
+[2026-09-10 14:40:27] Disk:56% , Memory:38% ,        4 Files 
+[2026-09-16 13:49:02] google.com is UP
+[2026-09-16 13:49:03] githib.com is DOWN
+[2026-09-16 13:49:03] nohost.fake is DOWN
+[2026-09-16 13:50:36] google.com is UP
+[2026-09-16 13:50:36] github.com is UP
+[2026-09-16 13:50:36] nohost.fake is DOWN
+[2026-09-18 16:21:03] Backup completed : project_1_2026-09-18.tar.gz 
+[2026-09-18 16:38:28] Files deleted:       1
+[2026-09-20 14:25:10] Disk:61% , Memory:45% ,        4 Files 
+[2026-09-22 13:46:08] google.com is UP
+[2026-09-22 13:46:08] github.com is UP
+[2026-09-22 13:46:08] nohost.fake is DOWN
+[2026-09-22 15:36:20] Connection=COnnected  TCP=      21 Local IP=192.168.1.67
+[2026-09-24 16:34:05]  Internet:Connected , Disk:check_disk% , Memory:check_memory%  , CPU Top 3 Proc. :  
+[2026-09-24 16:35:44]  Internet:Connected , Disk:Disk:62%% , Memory:Memory:42% %  , CPU Top 3 Proc. :  
+[2026-09-24 16:38:02]  Internet:Connected , Disk:62%% , Memory:44% %  , CPU Top 3 Proc. :  
+[2026-09-24 16:39:53]  Internet:Connected , Disk:62% , Memory:44 %  , CPU Top 3 Proc. :  
+[2026-09-26 18:06:00] Disk:65%  , Memory:33%  , Count=       4 
+[2026-09-26 18:25:59] Backup completed : project_1_2026-09-26.tar.gz
+[2026-09-28 13:29:51]        1 files deleted 
+[2026-10-04 17:13:38] google.com is UP
+[2026-10-04 17:13:39] github.com is UP
+[2026-10-04 17:13:39] nohost.fake is  DOWN
+[2026-10-04 17:32:21] Internet:Connected , Actice TCP:        8 , Local IP :::1
+[2026-10-04 17:35:15] Internet:Connected , Actice TCP:       12 , Local IP :192.168.77.224
+[2026-10-04 18:03:06] Internet:Connected , Disk=Disk:66% , Memory:Memory:43% , Top 3 process : root             18362  19.0  0.4 426946560  34112   ??  Ss    6:03PM   0:00.33 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_reportmemoryexception 18364   8.3  0.1 426950176   7856   ??  Ss    6:03PM   0:00.09 /usr/libexec/ReportMemoryException
+rovshangarayev   18361   4.8  0.0 410734560   2272 s000  S+    6:03PM   0:00.02 /bin/bash ./sys_health.sh 
+[2026-10-04 18:04:53] Internet:Connected , Disk=Disk:66% , Memory:Memory:45% 
+[2026-10-04 18:06:26] Internet:Connected , Disk:66% ,Memory:41% 
+[2026-10-05 12:46:09]        4 files , Disk:69% , Memory:48% 
+[2026-10-05 16:18:10] Backup completed:project_1_2026-10-05.tar.gz
+[2026-10-05 16:19:41] Backup completed:project_1_2026-10-05.tar.gz
+[2026-10-05 16:31:51]        1 files deleted 
+[2026-10-05 17:13:07] Internet:Connected , Disk:66% , Memory:47% , Top 3 CPU : root             22508  35.3  0.4 426946560  34112   ??  Ss    5:13PM   0:00.33 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_reportmemoryexception 22510  15.0  0.1 426950176   7872   ??  Ss    5:13PM   0:00.09 /usr/libexec/ReportMemoryException
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND 
+[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49% 
+[2026-10-06 15:41:21]      119 files , Last 5 :[2026-10-05 16:31:51]        1 files deleted 
+[2026-10-05 17:13:07] Internet:Connected , Disk:66% , Memory:47% , Top 3 CPU : root             22508  35.3  0.4 426946560  34112   ??  Ss    5:13PM   0:00.33 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_reportmemoryexception 22510  15.0  0.1 426950176   7872   ??  Ss    5:13PM   0:00.09 /usr/libexec/ReportMemoryException
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND 
+[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors:
+[2026-10-06 15:42:32]      124 files , Last 5 :[2026-10-06 15:41:21]      119 files , Last 5 :[2026-10-05 16:31:51]        1 files deleted 
+[2026-10-05 17:13:07] Internet:Connected , Disk:66% , Memory:47% , Top 3 CPU : root             22508  35.3  0.4 426946560  34112   ??  Ss    5:13PM   0:00.33 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_reportmemoryexception 22510  15.0  0.1 426950176   7872   ??  Ss    5:13PM   0:00.09 /usr/libexec/ReportMemoryException
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND 
+[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors: , Errors:[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors:
+[2026-10-06 15:46:04]      129 files  , Last 5: [2026-10-06 15:42:32]      124 files , Last 5 :[2026-10-06 15:41:21]      119 files , Last 5 :[2026-10-05 16:31:51]        1 files deleted 
+[2026-10-05 17:13:07] Internet:Connected , Disk:66% , Memory:47% , Top 3 CPU : root             22508  35.3  0.4 426946560  34112   ??  Ss    5:13PM   0:00.33 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+_reportmemoryexception 22510  15.0  0.1 426950176   7872   ??  Ss    5:13PM   0:00.09 /usr/libexec/ReportMemoryException
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND 
+[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors: , Errors:[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors: , Errors:[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors:
+[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors: , Errors:[2026-10-05 17:15:10] Internet:Connected , Disk:66% , Memory:49%  , Errors:
+[2026-10-06 16:00:45] google.com is Up 
+[2026-10-06 16:00:45] google.com is Down 
+[2026-10-06 16:00:45] github.com is Up 
+[2026-10-06 16:00:45] github.com is Down 
+[2026-10-06 16:01:47] google.com is Up 
+[2026-10-06 16:01:47] google.com is Down 
+[2026-10-06 16:01:47] github.com is Up 
+[2026-10-06 16:01:47] github.com is Down 
+[2026-10-06 16:03:22] google.com is Up 
+[2026-10-06 16:03:22] github.com is Up 
+[2026-10-06 16:03:22] nohost.fake is Down 
+[2026-10-09 14:09:13] Disk:0Bi% , Memory:46% ,        4 Files 
+[2026-10-09 14:10:16] Disk:28% , Memory:46% ,        4 Files 
+[2026-10-09 14:29:51] Backup created : project_1_Fri Oct  9 14:29:51 +04 2026.tar.gz 
+[2026-10-09 14:31:19] Backup created : project_1_2026-10-09.tar.gz 
+[2026-10-09 14:32:00] Backup created : project_1_2026-10-09.tar.gz 
+[2026-10-09 14:44:02]        1 files deleted 
+[2026-10-10 14:08:59] Internet:Connected  , TCP connections :       11 , Local IP:192.168.1.116
+[2026-10-13 12:37:50] production :Service is running  
+[2026-10-13 12:54:18] User manager :add rovshangarayev
+[2026-10-13 12:55:01] User manager :info rovshangarayev
+[2026-10-13 13:02:41] Archive created : backup/project_1_2026-10-13.tar.gz
+[2026-10-13 13:03:34] Archive created : backup/project_1_2026-10-13.tar.gz
+[2026-10-13 13:19:13] Disk:37%
+[2026-10-13 13:19:26] Disk:37%
+[2026-10-13 13:20:28] WARNING:Disk is full 
+[2026-10-14 13:52:12] Internet:Connected , TCP connections :       22 , Local IP : 192.168.99.196
+[2026-10-14 14:12:19] Errors:       4 , Warnings :        3 , Last 5 lines :[2026-10-13 13:03:34] Archive created : backup/project_1_2026-10-13.tar.gz
+[2026-10-13 13:19:13] Disk:37%
+[2026-10-13 13:19:26] Disk:37%
+[2026-10-13 13:20:28] WARNING:Disk is full 
+[2026-10-14 13:52:12] Internet:Connected , TCP connections :       22 , Local IP : 192.168.99.196 
+[2026-10-14 14:13:52] Errors:       5 , Warnings :        5 , Last 5 lines :[2026-10-14 14:12:19] Errors:       4 , Warnings :        3 , Last 5 lines :[2026-10-13 13:03:34] Archive created : backup/project_1_2026-10-13.tar.gz
+[2026-10-13 13:19:13] Disk:37%
+[2026-10-13 13:19:26] Disk:37%
+[2026-10-13 13:20:28] WARNING:Disk is full 
+[2026-10-14 13:52:12] Internet:Connected , TCP connections :       22 , Local IP : 192.168.99.196  
+[2026-10-14 14:31:42] google.com 433 is :Port 433  is closed 
+[2026-10-14 14:32:00] google.com 22 is :Port 22  is closed 
+[2026-10-14 14:32:49] google.com 443 is :Port 443 is open 
+[2026-10-15 16:50:33] Internet:Connected , TCP connections :       22 , Local IP : 10.0.0.218 
+[2026-10-15 17:15:16] Disk:37% , 0 free MB   , CPU:90.7%  
+[2026-10-15 17:16:39] Disk:37% , 0 free MB   , CPU:31.5%  
+[2026-10-15 17:18:52] Disk:37% , 58 free MB   , CPU:25.4%  
+[2026-10-15 17:36:45] Code is :301
+[2026-10-15 17:37:34] Code is :301
+[2026-10-15 17:38:08] Code is :200
+[2026-10-16 12:36:22] Code is : 301
+[2026-10-16 12:37:25] Code is : 200
+[2026-10-16 12:50:12] 80 : Port 80 is open  
+[2026-10-16 12:50:12] 443 : Port 443 is open  
+[2026-10-16 12:50:15] 22 : Port 22 is closed  
+[2026-10-16 13:03:40] Failed after 3 attempts
+[2026-10-16 13:06:07] Success
+[2026-10-17 12:03:16] Failed after 3 attempts 
+[2026-10-17 12:06:28] Failed after 3 attempts 
+[2026-10-17 12:06:46] Succes
+[2026-10-17 12:46:58] Total : OK :2 FAILED:1
+[2026-10-18 14:04:54]  OK:0 , FAILED : 0
+[2026-10-18 14:05:27]  OK:2 , FAILED : 1
+[2026-10-18 14:37:44] URL connection : Failed after 3  attempts 
+[2026-10-18 14:38:23] Connection : Success
+[2026-10-19 16:37:11] Ok:2 , Failed:1 
+[2026-10-19 16:48:23]        2 files deleted 
+[2026-10-19 17:01:56] google.com is Connected 
+[2026-10-19 17:01:56] github.com is Connected 
+[2026-10-19 17:01:56] nohost.fake is Disconnected 
+[2026-10-19 17:23:27] 80 is open 
+[2026-10-19 17:23:57] 9999 is closed 
+[2026-10-20 11:48:40] google.com on 80 is Connected 
+[2026-10-20 11:49:11] google.com on 9999 is Disconnected 
+[2026-10-20 12:05:15] Work started 
+[2026-10-20 12:05:18] Work stopped 
+[2026-10-20 12:06:14] Work started 
+[2026-10-20 12:06:17] Work stopped 
+[2026-10-20 12:07:08] Work started 
+[2026-10-20 12:07:11] Work stopped 
+[2026-10-20 12:07:27] Work started 
+[2026-10-20 12:07:28] Work stopped 
+[2026-10-20 12:49:02] Disk:41% , Free MB : 68 , CPU is : 121.8 
+[2026-10-20 12:50:34] Disk:41% , Free MB : 61 , CPU is : 20.4 
+[2026-10-21 12:08:38] Disk:45% , Free MB:57 ,CPU is:112.3 
+[2026-10-21 13:04:42] google.com is Internet connected
+[2026-10-21 13:04:42] github.com is Internet connected
+[2026-10-21 13:04:42] nohost.fake is Internet disconnected
+[2026-10-21 13:04:43] HTTP:SUCCESS
+[2026-10-21 13:04:43] Disk:45% , FREE MB:59 , CPU usage :83.3 
+[2026-10-22 12:10:06] Disk:48% , Free MB:59 , 112.4 , nohost.fake is disconnected , https://www.google.com is connected 
+[2026-10-22 12:12:10] Disk:48% , Free MB:60 , CPU:19.9 , nohost.fake is disconnected , https://www.google.com is connected 
+[2026-10-23 12:27:56] Disk:44% , Free MB:59 , CPU usage :110.4  , nohost.fake disconnected , https://www.google.com/ connected 

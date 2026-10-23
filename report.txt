@@ -1,0 +1,3 @@
+Disk is : 62%
+Memory is :33% 
+Date is : Fri Aug 28 16:31:56 CEST 2026
